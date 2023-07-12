@@ -1,0 +1,1 @@
+This repo is a  simple project in nodejs which uses docker-compose to create 2 different image one of redis and one of nodejs .
